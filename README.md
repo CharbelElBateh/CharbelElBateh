@@ -1,4 +1,4 @@
-Hi 👋 My name is Charbel EL BATEH
+Hi 👋 My name is Charbel
 =================================
 
 Computer engineering student

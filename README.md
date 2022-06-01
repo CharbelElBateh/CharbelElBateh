@@ -4,11 +4,12 @@ Hi 👋 My name is Charbel
 Computer engineering student
 ----------------------------
 
-Before becoming my major coding was a fun side activity. Now I am going to make it my full time enjoyment. I started to learn some basics in many languages. Now I am concentrating on Java and learning some JavaScript on the side.
+Before becoming my major coding was a fun side activity. Now I am going to make it my full time enjoyment. I started to learn some basics in many languages. For now I am concentrating on Java and learning some languages on the side.
 
-* 🌍  I'm based in Lebanon
-* ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🌍  I'm based in Lebanon
+* ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
+* 🧠  I'm learning JavaScript, HTML & CSS
+* 💻 I am interested in learning NodeJS, ReactJS and Solidity
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am obsessed with debugging
 
@@ -20,6 +21,8 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
 

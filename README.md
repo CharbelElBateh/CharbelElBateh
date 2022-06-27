@@ -8,7 +8,7 @@ Before becoming my major coding was a fun side activity. Now I am going to make 
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
-* 🧠  I'm learning JavaScript, HTML & CSS
+* 🧠  I'm learning JavaScript
 * 💻 I am interested in learning NodeJS, ReactJS and Solidity
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am obsessed with debugging
@@ -23,6 +23,7 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+  <a href="https://www.gnu.org/software/bash/" rel="Bash"> <img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="36" height="36"></a>
 </p>
 
 
@@ -37,7 +38,7 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
   <a href="https://codepen.io/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="charbelelbateh" height="32" width="32" /></a>
   <a href="https://dev.to/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="charbelelbateh" height="32" width="32" /></a>
   <a href="https://linkedin.com/in/charbel-el-bateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charbel-el-bateh" height="32" width="32" /></a>
-  <a href="https://codesandbox.com/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/codesandbox.svg" alt="charbelelbateh" height="32" width="32" /></a>
+  <a href="https://codesandbox.com/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="charbelelbateh" height="32" width="32" /></a>
   <a href="https://kaggle.com/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="charbelelbateh" height="32" width="32" /></a>
   <a href="https://hashnode.com/@hersheys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hersheys" height="32" width="32" /></a>
   <a href="https://www.codechef.com/users/charbelelbateh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="charbelelbateh" height="32" width="32" /></a>

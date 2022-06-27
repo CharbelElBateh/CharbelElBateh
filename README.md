@@ -9,15 +9,16 @@ Before becoming my major coding was a fun side activity. Now I am going to make 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
 * 🧠  I'm learning JavaScript
-* 💻 I am interested in learning NodeJS, ReactJS and Solidity
+* 💻  I am interested in learning NodeJS, ReactJS and Solidity
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am obsessed with debugging
 
+<!--
 <a href="https://www.github.com/CharbelElBateh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+-->
 
 ### Skills
-
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -28,9 +29,7 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
   <a href="https://git-scm.com/" rel="Git"><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"></a>
 </p>
 
-
 ### Socials
-
 <p align="left"> 
   <a href="https://discord.com/users/288321014943711232" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/CharbelElBateh" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
@@ -52,11 +51,12 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
 <a href="https://www.topcoder.com/members/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="charbelelbateh" height="32" width="32" /></a>
 </p>
 
+----------------------------
 ### Badges
-
 <b>My GitHub Stats</b>
 
 <a align="center" href="http://www.github.com/CharbelElBateh"><img src="https://github-readme-stats.vercel.app/api?username=CharbelElBateh&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharbelElBateh's GitHub stats" /></a>
 
 ### Support
+
 <p><a href="https://www.buymeacoffee.com/charbelelbateh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="auto" alt="charbelelbateh" /></a></p><br><br>

@@ -1,8 +1,7 @@
 Hi 👋 My name is Charbel
 =================================
 
-Computer engineering student
-----------------------------
+<h2 align="middle">Computer engineering student</h2>
 
 Before becoming my major coding was a fun side activity. Now I am going to make it my full time enjoyment. I started to learn some basics in many languages. For now I am concentrating on Java and learning some languages on the side.
 
@@ -18,8 +17,9 @@ Before becoming my major coding was a fun side activity. Now I am going to make 
 src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 -->
 
-### Skills
-<p align="left">
+<h2 align="middle">Skills</h2>
+
+<p align="middle">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -29,8 +29,10 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
   <a href="https://git-scm.com/" rel="Git"><img class="ml-4 w-8 h-8 sm:w-10 sm:h-10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"></a>
 </p>
 
-### Socials
-<p align="left"> 
+
+<h2 align="middle">Socials</h2>
+
+<p align="middle"> 
   <a href="https://discord.com/users/288321014943711232" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/CharbelElBateh" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
   <a href="http://www.instagram.com/charbel_elbateh" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
@@ -50,12 +52,12 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
 <a href="https://www.topcoder.com/members/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="charbelelbateh" height="32" width="32" /></a>
 </p>
 
-----------------------------
-### Badges
-<b>My GitHub Stats</b>
+<h2 align="middle">My GitHub Stats</h2>
 
-<a align="center" href="http://www.github.com/CharbelElBateh"><img src="https://github-readme-stats.vercel.app/api?username=CharbelElBateh&show_icons=true&hide=prs,issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharbelElBateh's GitHub stats" /></a>
+<a href="http://www.github.com/CharbelElBateh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CharbelElBateh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="http://www.github.com/CharbelElBateh"><img src="https://github-readme-stats.vercel.app/api?username=CharbelElBateh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharbelElBateh's GitHub stats" /></a>
 
+<!--
 ### Support
 
 <p><a href="https://www.buymeacoffee.com/charbelelbateh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="auto" alt="charbelelbateh" /></a></p><br><br>
+--->

@@ -3,12 +3,12 @@ Hi 👋 My name is Charbel
 
 <h2 align="middle">Computer engineering student</h2>
 
-Before becoming my major coding was a fun side activity. Now I am going to make it my full time enjoyment. I started to learn some basics in many languages. For now I am concentrating on Java and learning some languages on the side.
+Before becoming my major coding was a fun side activity. Now I am going to make it my full-time enjoyment. I started to learn some basics in many languages. For now, I am concentrating on Java and learning some languages on the side.
 
+* 💻  I am working as a computer engineering tutor
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
 * 🧠  I'm learning Java
-* 💻  I am interested in learning deeper concepts
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am obsessed with debugging
 

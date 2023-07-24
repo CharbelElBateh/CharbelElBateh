@@ -8,7 +8,6 @@ Before becoming my major coding was a fun side activity. Now I am going to make 
 * 💻  I am working as a computer engineering tutor
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
-* 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am obsessed with debugging
 

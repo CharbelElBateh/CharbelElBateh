@@ -1,20 +1,10 @@
 Hi 👋 My name is Charbel
 =================================
 
-<h2 align="middle">Computer engineering student</h2>
+<h2 align="middle">Computer Engineer</h2>
 
-Before becoming my major coding was a fun side activity. Now I am going to make it my full-time enjoyment. I started to learn some basics in many languages. For now, I am concentrating on Java and learning some languages on the side.
-
-* 💻  I am working as a computer engineering tutor
-* 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [charbelelbateh@gmail.com](mailto:charbelelbateh@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I am obsessed with debugging
-
-<!--
-<a href="https://www.github.com/CharbelElBateh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
--->
 
 <h2 align="middle">Skills</h2>
 
@@ -43,28 +33,11 @@ src="https://img.shields.io/github/followers/CharbelElBateh?logo=github&style=fo
 <h2 align="middle">Socials</h2>
 
 <p align="middle"> 
-  <a href="https://discord.com/users/288321014943711232" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
   <a href="https://www.github.com/CharbelElBateh" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-  <a href="https://www.linkedin.com/in/charbel-el-bateh/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  <a href="https://www.stackoverflow.com/users/18343601/charbel-el-bateh" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-  <a href="https://kaggle.com/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="charbelelbateh" height="32" width="32" /></a>
+  <a href="https://www.linkedin.com/in/charbel-al-bateh/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
   <a href="https://www.leetcode.com/charbelelbateh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="charbelelbateh" height="32" width="32" /></a>
 </p>
 
-<h2 align="middle">My GitHub Stats</h2>
+<h2 align="middle">Sticker Board :)</h2>
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CharbelElBateh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CharbelElBateh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CharbelElBateh's GitHub stats" />
-</p>
-
-[![@charbelelbateh's Holopin board](https://holopin.io/api/user/board?user=charbelelbateh)](https://holopin.io/@charbelelbateh)
-
-<!--
-### Support
-
-<p><a href="https://www.buymeacoffee.com/charbelelbateh"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="32" width="auto" alt="charbelelbateh" /></a></p><br><br>
---->
+[![An image of @charbelelbateh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/charbelelbateh)](https://holopin.io/@charbelelbateh)
